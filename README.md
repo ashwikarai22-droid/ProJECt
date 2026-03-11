@@ -75,25 +75,4 @@ Follow these steps to run the project locally.
    http://localhost/ProJECT
    ```
 
-## 📁 Project Structure
-
-```
-ProJECT/
-│
-├── index.php              # Main homepage
-├── login.php              # User authentication page
-├── dashboard.php          # User/Admin dashboard
-│
-├── css/
-│   └── style.css          # Styling files
-│
-├── js/
-│   └── script.js          # JavaScript functionality
-│
-├── database/
-│   └── project.sql        # Database schema
-│
-└── assets/
-    └── images/            # Images and other resources
-```
 
