@@ -15,7 +15,6 @@ ProJECt is a web-based platform designed to provide an efficient and user-friend
 * **Database Integration:** Reliable storage and retrieval of system data through MySQL.
 
 ### System Features
-* **Responsive Design:** Works smoothly across desktops, tablets, and mobile devices.
 * **Fast Performance:** Optimized backend and frontend for quick loading.
 * **Structured Data Handling:** Organized database schema ensuring data reliability and integrity.
 
